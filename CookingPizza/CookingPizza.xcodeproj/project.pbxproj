@@ -7,28 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AD0352FA1C7A2C11004D5ADF /* PizzaSizeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0352F91C7A2C11004D5ADF /* PizzaSizeViewController.swift */; };
+		AD0352FC1C7A48CE004D5ADF /* PizzaDoughViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0352FB1C7A48CE004D5ADF /* PizzaDoughViewController.swift */; };
+		AD0352FE1C7A4E2A004D5ADF /* PizzaCheeseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0352FD1C7A4E2A004D5ADF /* PizzaCheeseViewController.swift */; };
+		AD0353001C7A533C004D5ADF /* PizzaIngredientsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0352FF1C7A533C004D5ADF /* PizzaIngredientsViewController.swift */; };
+		AD0353021C7B85F4004D5ADF /* PizzaMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0353011C7B85F4004D5ADF /* PizzaMenuViewController.swift */; };
 		AD2B1DCE1C683DC600856671 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B1DCD1C683DC600856671 /* AppDelegate.swift */; };
 		AD2B1DD31C683DC600856671 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD2B1DD11C683DC600856671 /* Main.storyboard */; };
 		AD2B1DD51C683DC600856671 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD2B1DD41C683DC600856671 /* Assets.xcassets */; };
 		AD2B1DD81C683DC600856671 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD2B1DD61C683DC600856671 /* LaunchScreen.storyboard */; };
-		AD2B1DE01C68514700856671 /* PizzaSizeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B1DDF1C68514700856671 /* PizzaSizeTableViewController.swift */; };
-		AD2B1DE21C68598800856671 /* PizzaDoughTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B1DE11C68598800856671 /* PizzaDoughTableViewController.swift */; };
-		AD2B1DE41C685F9500856671 /* PizzaCheeseTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B1DE31C685F9500856671 /* PizzaCheeseTableViewController.swift */; };
-		AD2B1DE61C68622300856671 /* PizzaIngredientsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B1DE51C68622300856671 /* PizzaIngredientsTableViewController.swift */; };
 		AD2B1DE81C68710E00856671 /* PizzaOrderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B1DE71C68710E00856671 /* PizzaOrderViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AD0352F91C7A2C11004D5ADF /* PizzaSizeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PizzaSizeViewController.swift; sourceTree = "<group>"; };
+		AD0352FB1C7A48CE004D5ADF /* PizzaDoughViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PizzaDoughViewController.swift; sourceTree = "<group>"; };
+		AD0352FD1C7A4E2A004D5ADF /* PizzaCheeseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PizzaCheeseViewController.swift; sourceTree = "<group>"; };
+		AD0352FF1C7A533C004D5ADF /* PizzaIngredientsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PizzaIngredientsViewController.swift; sourceTree = "<group>"; };
+		AD0353011C7B85F4004D5ADF /* PizzaMenuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PizzaMenuViewController.swift; sourceTree = "<group>"; };
 		AD2B1DCA1C683DC600856671 /* CookingPizza.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CookingPizza.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD2B1DCD1C683DC600856671 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD2B1DD21C683DC600856671 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AD2B1DD41C683DC600856671 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD2B1DD71C683DC600856671 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AD2B1DD91C683DC600856671 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AD2B1DDF1C68514700856671 /* PizzaSizeTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PizzaSizeTableViewController.swift; sourceTree = "<group>"; };
-		AD2B1DE11C68598800856671 /* PizzaDoughTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PizzaDoughTableViewController.swift; sourceTree = "<group>"; };
-		AD2B1DE31C685F9500856671 /* PizzaCheeseTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PizzaCheeseTableViewController.swift; sourceTree = "<group>"; };
-		AD2B1DE51C68622300856671 /* PizzaIngredientsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PizzaIngredientsTableViewController.swift; sourceTree = "<group>"; };
 		AD2B1DE71C68710E00856671 /* PizzaOrderViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PizzaOrderViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -63,15 +65,16 @@
 			isa = PBXGroup;
 			children = (
 				AD2B1DCD1C683DC600856671 /* AppDelegate.swift */,
-				AD2B1DDF1C68514700856671 /* PizzaSizeTableViewController.swift */,
-				AD2B1DE11C68598800856671 /* PizzaDoughTableViewController.swift */,
-				AD2B1DE31C685F9500856671 /* PizzaCheeseTableViewController.swift */,
-				AD2B1DE51C68622300856671 /* PizzaIngredientsTableViewController.swift */,
 				AD2B1DD11C683DC600856671 /* Main.storyboard */,
 				AD2B1DD41C683DC600856671 /* Assets.xcassets */,
 				AD2B1DD61C683DC600856671 /* LaunchScreen.storyboard */,
 				AD2B1DD91C683DC600856671 /* Info.plist */,
 				AD2B1DE71C68710E00856671 /* PizzaOrderViewController.swift */,
+				AD0352F91C7A2C11004D5ADF /* PizzaSizeViewController.swift */,
+				AD0352FB1C7A48CE004D5ADF /* PizzaDoughViewController.swift */,
+				AD0352FD1C7A4E2A004D5ADF /* PizzaCheeseViewController.swift */,
+				AD0352FF1C7A533C004D5ADF /* PizzaIngredientsViewController.swift */,
+				AD0353011C7B85F4004D5ADF /* PizzaMenuViewController.swift */,
 			);
 			path = CookingPizza;
 			sourceTree = "<group>";
@@ -147,12 +150,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD0353021C7B85F4004D5ADF /* PizzaMenuViewController.swift in Sources */,
+				AD0353001C7A533C004D5ADF /* PizzaIngredientsViewController.swift in Sources */,
+				AD0352FA1C7A2C11004D5ADF /* PizzaSizeViewController.swift in Sources */,
 				AD2B1DE81C68710E00856671 /* PizzaOrderViewController.swift in Sources */,
 				AD2B1DCE1C683DC600856671 /* AppDelegate.swift in Sources */,
-				AD2B1DE41C685F9500856671 /* PizzaCheeseTableViewController.swift in Sources */,
-				AD2B1DE61C68622300856671 /* PizzaIngredientsTableViewController.swift in Sources */,
-				AD2B1DE01C68514700856671 /* PizzaSizeTableViewController.swift in Sources */,
-				AD2B1DE21C68598800856671 /* PizzaDoughTableViewController.swift in Sources */,
+				AD0352FE1C7A4E2A004D5ADF /* PizzaCheeseViewController.swift in Sources */,
+				AD0352FC1C7A48CE004D5ADF /* PizzaDoughViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
